@@ -10,7 +10,7 @@ Hi 👋
 - ¿Dónde encontrarme?
 
 
-   [i[LinkIn]('https://img.shields.io/badge/linkedin.com/in/rocio-rodriguez-jara-595bb8244?style=for-the-badge&logo=linkenin&logoColor=whiteSlabelColor=101010)]
+   [i[LinkenIn]('https://img.shields.io/badge/linkedin.com/in/rocio-rodriguez-jara-595bb8244?style=for-the-badge&logo=linkenin&logoColor=whiteSlabelColor=101010)]
   
 
 
